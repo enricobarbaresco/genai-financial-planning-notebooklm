@@ -4,6 +4,8 @@ This repository contains projects developed during the **Generative AI Bootcamp 
 
 The main goal of these projects is to explore **Generative AI as a tool for active learning, knowledge organization, and critical thinking**, using real-world educational use cases.
 
+Project link: https://notebooklm.google.com/notebook/d74b9bec-c2b0-46d5-8076-1ca904b988db
+
 ## 📌 Project Overview
 
 One of the featured projects focuses on building a **thematic study guide using NotebookLM**, centered on **personal financial planning**. The study covers fundamental concepts such as:
