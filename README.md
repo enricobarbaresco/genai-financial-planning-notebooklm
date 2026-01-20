@@ -28,27 +28,3 @@ Generative AI was applied to:
 - Create reusable prompts for future study and revision
 
 The project emphasizes **critical use of AI**, avoiding generic outputs and focusing on source-based reasoning.
-
-## 📂 Repository Structure
-
-The repository is organized as follows:
-
-📁 genai-financial-planning-notebooklm
- ├── README.md
- ├── 📁 docs
- │    ├── project-overview.md
- │    ├── objectives.md
- │    ├── methodology.md
- │    └── results.md
- ├── 📁 sources
- │    ├── text-sources.md
- │    └── video-sources.md
- ├── 📁 prompts
- │    ├── prompt-variations.md
- │    └── reusable-prompts.md
- └── 📁 outputs
-      ├── summaries.md
-      ├── glossary.md
-      └── study-guide.md
-
-
